@@ -1,4 +1,4 @@
-# CR_10SE_Annex
+# CR-10SE_Annex
 
 1、fluidd installation and uninstallation
 
